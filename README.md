@@ -11,4 +11,4 @@ Todo list of what to do as soon as a new paper is published.
   * upload to academia.edu
   * fill in ENS website
   * add to CV
-  * send to Lucile :P
+  * Kudos?
