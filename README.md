@@ -12,3 +12,5 @@ Todo list of what to do as soon as a new paper is published.
   * fill in ENS website
   * add to CV
   * Kudos?
+  * acschemworx?
+  * http://academic.research.microsoft.com/
