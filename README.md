@@ -8,7 +8,7 @@ Todo list of what to do as soon as a new paper is published.
   * upload to zotero
   * print it and put it in coffee room
   * upload to researchgate
-  * upload to academia.edu
+  * upload to academia.edu (I deleted my account in May 2014)
   * fill in ENS website
   * add to CV
   * Kudos?
