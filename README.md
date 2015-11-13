@@ -11,7 +11,7 @@ Todo list of what to do as soon as a new paper is published.
   * upload to academia.edu (I deleted my account in May 2014)
   * fill in ENS website
   * put in on HAL (usefull to later fill CNRS's CRAC)
-  * add to CV
+  * add to CV -> https://github.com/maxlevesque/cv
   * Kudos?
   * acschemworx?
   * http://academic.research.microsoft.com/
