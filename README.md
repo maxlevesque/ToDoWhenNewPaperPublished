@@ -1,18 +1,12 @@
-ToDoWhenNewPaperPublished
-=========================
-
-Todo list of what to do as soon as a new paper is published.
+ToDo list when a new paper is published
+=======================================
 
   * put it on arXiv
   * clean folder [...]/ArticlesEnCours and move to [...]/ArticlesTermines
   * upload to zotero
   * print it and put it in coffee room
   * upload to researchgate
-  * upload to academia.edu (I deleted my account in May 2014)
+  * upload to academia.edu
   * fill in ENS website
-  * put in on HAL (usefull to later fill CNRS's CRAC)
+  * put in on hal.upmc.fr
   * add to CV -> https://github.com/maxlevesque/cv
-  * Kudos?
-  * acschemworx?
-  * http://academic.research.microsoft.com/
-  * twitter
